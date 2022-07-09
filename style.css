@@ -8,3 +8,17 @@
     vertical-align: baseline;
     background: transparent;
 }
+#title-container {
+    display: flex;
+    justify-content: center;
+    background-color: #334155;
+    box-shadow: 0 0 10px #000;
+    height: 100px;
+}
+#title-text {
+    color: #fff;
+    font-size: 4em;
+    font-weight: bold;
+    align-self: center;
+    font-family: 'Roboto', sans-serif;
+}
