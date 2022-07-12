@@ -30,7 +30,6 @@ const square6 = document.getElementById('square6');
 const square7 = document.getElementById('square7');
 const square8 = document.getElementById('square8');
 const square9 = document.getElementById('square9');
-
 const rowSquares = [
     square1, square2, square3,
     square4, square5, square6,
@@ -45,3 +44,4 @@ const diagonalSquares = [
     square1, square5, square9,
     square3, square5, square7
 ]
+
